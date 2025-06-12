@@ -10,5 +10,5 @@ imageio==2.35.1
 jax==0.5.2
 simple_benchmark==0.1.0
 torch==2.7.0.dev20250127+cu118
-torch==2.4.1+cu121
+torch==2.7.1
 tqdm==4.66.5
