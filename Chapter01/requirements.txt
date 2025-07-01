@@ -1,5 +1,5 @@
 numpy==1.24.3
-Pillow==11.2.1
+Pillow==11.3.0
 scipy==1.10.1
 skimage==0.0
 opencv_python==4.10.0.84
