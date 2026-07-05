@@ -107,12 +107,16 @@ Advanced chapters introduce CNNs, Vision Transformers, transformer-based segment
 ![](Chapter08/images/parrot_LPF.gif)
 ![](Chapter05/images/ff.gif)
 ![](Chapter04/images/gauss_fft.gif)
-![](Chapter03/images/lena_wave_2d.gif)
-![](Chapter03/images/lena_wave_horz.gif)
-![](Chapter03/images/rotating_cube.gif)
+<p float="left">
+<img src="Chapter03/images/lena_wave_2d.gif" width="400"/> 
+<img src="Chapter03/images/lena_wave_horz.gif" width="425"/> 
+</p>
+<p float="left">
+<img src="Chapter03/images/rotating_cube.gif" width="400"/> 
+<img src="Chapter03/images/parrot_swirl.gif" width="425"/> 
+</p>
 ![](Chapter03/images/zoom_in_out.gif)
 ![](Chapter03/images/rot.gif)
-![](Chapter03/images/parrot_swirl.gif)
 ![](Chapter01/images/red_cars.gif)
 ![](Chapter01/images/leaves.gif)
 
