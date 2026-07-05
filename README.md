@@ -102,7 +102,7 @@ Advanced chapters introduce CNNs, Vision Transformers, transformer-based segment
 ![](Chapter11/images/vtk_seg_liver.gif) 
 ![](Chapter11/images/seg_cityscapes.gif)
 ![](Chapter11/images/sam.gif) 
-![](Chapter13/images/morph.gif) 
+![](Chapter13/images/morph_pingpong.gif) 
 ![](Chapter12/images/socrates.gif)
 ![](Chapter08/images/parrot_LPF.gif)
 ![](Chapter05/images/ff.gif)
