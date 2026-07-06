@@ -193,7 +193,7 @@ If you find this repository useful, you may also be interested in the author's p
 - **Image Processing and Computer Vision Masterclass with Python (2nd Edition)**  
   GitHub: https://github.com/sandipan/Book-BPB-600-Image-Processing-and-Computer-Vision-Masterclass-with-Python
 
-These repositories contain complete source code, examples, datasets, and implementations accompanying the respective books. :contentReference[oaicite:0]{index=0}
+These repositories contain complete source code, examples, datasets, and implementations accompanying the respective books. 
 </details>
 
 
